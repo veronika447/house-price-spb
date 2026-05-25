@@ -20,6 +20,7 @@ pandas, numpy, sklearn, matplotlib, seaborn
 ## Результат
 
 R²: 0.9878
+
 MAE: 0.263 млн руб
 
 ## Вывод
